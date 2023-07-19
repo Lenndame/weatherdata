@@ -1,0 +1,9 @@
+12: mo31 tue33 wed22 thu 34 fri 23 sat33 sun24
+13: mo34 tue29 wed25 thu34 fri19 sat20 sun28
+14: mo26 tue18 wed22 thu34 fri28 sat29 sun30
+15: mo 17 tue 22 wed22 thu34 fri30 sat30 sun28
+16: mo29 tue19 wed31 thu33 fri29 sat30 sun23
+17: mo29 tue32 wed29 thu31 fri39 sat29 sun 29
+18: mo29 tue29 wed 29 thu34 fri30 sat32 sun15
+19: mo26 tue29 wed34 thu33 fri31 sat19 sun26
+20: mo18 tue30 wed19 thu30 fri19 sat 32 sun32
